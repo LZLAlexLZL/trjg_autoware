@@ -127,3 +127,8 @@ repositories:
     type: git
     url: https://github.com/tier4/agnocast.git
     version: 2.1.2
+  # sensor_kit
+  sensor_kit/tutorial_vehicle_sensor_kit_launch:
+    type: git
+    url: https://github.com/leo-drive/tutorial_vehicle_sensor_kit_launch.git
+    version: main
